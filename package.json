@@ -1,23 +1,28 @@
 {
-  "name": "Ajax",
+  "name": "andrushko",
   "version": "1.0.0",
-  "description": "",
+  "description": "fdfdf fgfgf",
   "main": "server.js",
   "dependencies": {
     "babel": "^6.23.0",
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "body-parser": "^1.18.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "server",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/andrushkodmytro/Ajax.git"
   },
-  "author": "",
+  "keywords": [
+    "ffggg",
+    "gggjh",
+    "jj"
+  ],
+  "author": "fghh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andrushkodmytro/Ajax/issues"
